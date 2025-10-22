@@ -14,7 +14,7 @@ app = FastAPI(
 )
 origins = [
     "http://localhost:5173",
-    "https://68f8d9880b0df950cbb1e182--bespoke-pavlova-a1e252.netlify.app/",
+    "https://68f8de650b0df96006b1dd8f--bespoke-pavlova-a1e252.netlify.app/",
 ]
 app.include_router(upload.router)
 app.include_router(query.router)
