@@ -16,7 +16,7 @@ router = APIRouter(tags=["Soru-Cevap"])
 UPLOAD_DIR = Path("uploaded_files")
 UPLOAD_DIR.mkdir(exist_ok=True)
 VECTOR_DB_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "data", "vector_db"))
-TXT_PATH = Path("C:/chatbotProjesi/backend/data/vector_db/all_texts.txt")
+TXT_PATH = Path("data/vector_db/all_texts.txt")
 
 
 def findPart(question: str, txt_path: str, top_k: int = 5):
