@@ -1,0 +1,11 @@
+fastapi
+dotenv
+pydantic
+
+haystack-ai
+google-genai-haystack
+datasets
+pandas
+sentence-transformers
+python-dotenv
+streamlit
