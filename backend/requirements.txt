@@ -1,10 +1,10 @@
 fastapi==0.111.1
 uvicorn==0.23.1
-pypdf==6.1.2
+pypdf
 scikit-learn
 langchain==0.2.12
 langchain-community==0.2.11
 langchain-core==0.2.24
-langchain-google-genai==0.1.8
-faiss-cpu
+langchain-google-genai==3.0.0
 python-dotenv
+faiss-cpu
