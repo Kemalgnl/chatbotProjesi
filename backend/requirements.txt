@@ -3,5 +3,5 @@ uvicorn[standard]==0.23.1
 pypdf
 scikit-learn
 langchain
-langchain-google-generativeai
+git+https://github.com/langchain-ai/langchain-google.git
 python-dotenv
