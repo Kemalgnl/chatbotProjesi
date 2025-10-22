@@ -4,7 +4,7 @@ pypdf
 scikit-learn
 langchain==0.2.12
 langchain-community==0.2.11
-langchain-core==0.2.24
+langchain-core==0.2.27
 langchain-google-genai==3.0.0
 python-dotenv
 faiss-cpu
