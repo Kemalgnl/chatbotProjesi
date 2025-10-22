@@ -1,7 +1,8 @@
-fastapi==0.111.1
-uvicorn[standard]==0.23.1
-pypdf
-scikit-learn
-langchain==1.0.2
-google-generativeai
+fastapi
+uvicorn
 python-dotenv
+pypdf
+langchain
+langchain-google-genai
+faiss-cpu
+scikit-learn
