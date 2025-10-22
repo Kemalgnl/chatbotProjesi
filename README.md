@@ -28,6 +28,13 @@ Bu proje, bir şirket ortamında kullanılabilecek profesyonel bir chatbot geli�
 
 ---
 
+## 🚀 Hızlı Başlangıç
+
+**Uygulamayı hemen denemek için:** [Canlı Demo - ChatBot](https://68f8ef5c949563989477451e--bespoke-pavlova-a1e252.netlify.app/)
+*(Cevap süresi yaklaşık 10 saniye)*
+
+*Veya yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyin:*
+
 ## Kullanım
 
 ### 1. Projeyi Klonlayın
