@@ -3,6 +3,8 @@
 ## Projenin Amacı
 Bu proje, bir şirket ortamında kullanılabilecek profesyonel bir chatbot geliştirmeyi amaçlamaktadır. Chatbot, yalnızca sağlanan belgelerden bilgi alarak cevap verir ve belgelerde yanıt bulunmadığında mantıklı tahminler yapar. Bu sayede kullanıcılar, şirket verilerine dayalı doğru ve güvenilir bilgiler alabilir.
 
+> 💡 **Not:** Bu proje şuanda bilgisayar mühendisliği konusunda destek vermektedir.
+
 ## Veri Seti Hakkında Bilgi
 - Kullanılan veriler, şirketin sağladığı doküman ve metin dosyalarından oluşmaktadır.
 - Veri seti özel ve hassas bilgiler içerebileceği için repo’da paylaşılmamıştır.
