@@ -55,4 +55,9 @@ npm start
 
 ### 5. Uygulamayı Açın
 Web tarayıcınızdan [http://localhost:5173](http://localhost:5173) adresine giderek chatbot'u kullanmaya başlayabilirsiniz.
-  
+
+---
+
+## 📝 Notlar
+- Projenizde kendi verilerinizi kullanmak için `data/` klasörüne belgelerinizi ekleyin.
+- Backend ve frontend'in aynı anda çalışması gerekmektedir.
