@@ -22,16 +22,16 @@ Bu proje, bir şirket ortamında kullanılabilecek profesyonel bir chatbot geli�
 - Belgelerde yanıt bulunmadığında, chatbot mantıklı tahminlerde bulunabiliyor ve bu tahminlerin doğrulanmadığını belirtiyor.
 - Frontend üzerinde soru-cevap geçmişi gösteriliyor ve gerçek zamanlı cevap alınıyor.
 
+## 🚀 Hızlı Başlangıç
+
+**Uygulamayı hemen denemek için:** [Canlı Demo - ChatBot](https://68f8ef5c949563989477451e--bespoke-pavlova-a1e252.netlify.app/)
+*(Cevap süresi yaklaşık 10 saniye)*
+
 ---
 
 ![proje](https://github.com/Kemalgnl/chatbotProjesi/blob/main/proje.gif?raw=true)
 
 ---
-
-## 🚀 Hızlı Başlangıç
-
-**Uygulamayı hemen denemek için:** [Canlı Demo - ChatBot](https://68f8ef5c949563989477451e--bespoke-pavlova-a1e252.netlify.app/)
-*(Cevap süresi yaklaşık 10 saniye)*
 
 *Veya yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyin:*
 
