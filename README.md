@@ -33,8 +33,8 @@ Bu proje, bir şirket ortamında kullanılabilecek profesyonel bir chatbot geli�
 
 - Semaphore nedir?
 - Semaphore neden kullanılır?
-- Mutex ile semaphore arasındaki fark nedir?
-- Deadlock nedir ve nasıl önlenir?
+- Mutex nedir?
+- Deadlock nedir?
 - Race condition nedir?
 
 ---
