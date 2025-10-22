@@ -29,6 +29,14 @@ Bu proje, bir şirket ortamında kullanılabilecek profesyonel bir chatbot geli�
 **Uygulamayı hemen denemek için:** [Canlı Demo - ChatBot](https://68f8ef5c949563989477451e--bespoke-pavlova-a1e252.netlify.app/)
 *(Cevap süresi yaklaşık 10 saniye)*
 
+## Sorulabilecek Sorular
+
+- Semaphore nedir?
+- Semaphore neden kullanılır?
+- Mutex ile semaphore arasındaki fark nedir?
+- Deadlock nedir ve nasıl önlenir?
+- Race condition nedir?
+
 ---
 
 ![proje](https://github.com/Kemalgnl/chatbotProjesi/blob/main/proje.gif?raw=true)
