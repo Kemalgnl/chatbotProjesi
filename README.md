@@ -1,4 +1,4 @@
-# Chatbot Uygulaması (RAG + LLM)
+# RAG Temelli Chatbot Uygulaması
 
 ## Projenin Amacı
 Bu proje, bir şirket ortamında kullanılabilecek profesyonel bir chatbot geliştirmeyi amaçlamaktadır. Chatbot, yalnızca sağlanan belgelerden bilgi alarak cevap verir ve belgelerde yanıt bulunmadığında mantıklı tahminler yapar. Bu sayede kullanıcılar, şirket verilerine dayalı doğru ve güvenilir bilgiler alabilir.
