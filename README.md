@@ -24,7 +24,7 @@ Bu proje, bir şirket ortamında kullanılabilecek profesyonel bir chatbot geli�
 
 ---
 
-![proje]([[https://github.com/user-attachments/assets/2e4d79a1-103c-4048-91c9-c6d938a71cf9.gif](https://github.com/Kemalgnl/chatbotProjesi/blob/main/proje.gif](https://github.com/Kemalgnl/chatbotProjesi/blob/main/proje.gif?raw=true)))
+![proje](https://github.com/Kemalgnl/chatbotProjesi/blob/main/proje.gif?raw=true)
 
 ---
 
