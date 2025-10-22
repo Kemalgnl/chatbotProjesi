@@ -1,8 +1,10 @@
-fastapi
-uvicorn
-python-dotenv
-pypdf
-langchain
-langchain-google-genai
-faiss-cpu
+fastapi==0.111.1
+uvicorn==0.23.1
+pypdf==6.1.2
 scikit-learn
+langchain==0.2.12
+langchain-community==0.2.11
+langchain-core==0.2.24
+langchain-google-genai==0.1.8
+faiss-cpu
+python-dotenv
