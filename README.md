@@ -22,6 +22,7 @@ Bu proje, bir şirket ortamında kullanılabilecek profesyonel bir chatbot geli�
 - Belgelerde yanıt bulunmadığında, chatbot mantıklı tahminlerde bulunabiliyor ve bu tahminlerin doğrulanmadığını belirtiyor.
 - Frontend üzerinde soru-cevap geçmişi gösteriliyor ve gerçek zamanlı cevap alınıyor.
 
+---
 
 
 ---
@@ -42,7 +43,7 @@ pip install -r requirements.txt
 
 ### 3. Backend'i Başlatın
 ```bash
-uvicorn main:app --reload
+python -m uvicorn app.main:app --reload
 ```
 
 ### 4. Frontend Kurulumu ve Başlatma
